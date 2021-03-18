@@ -4,7 +4,7 @@
 	Participei do React Native Insider, desenvolvi esse app que me mostra a previsão do tempo
 	com base na localização.
 </p>
-<video src="previsao.mp4"></video>
+<img src="previsao.mp4"></img>
 <p>
 	Utilizando a API da <a href="https://hgbrasil.com/">hgbrasil.com</a> que me fornece um
 	token único para fazer as requisições.
